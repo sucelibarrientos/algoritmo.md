@@ -28,6 +28,31 @@ geometria
 *  V=4/3 π  r3
 
 
+*d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Numero impar y Par 
  
  lgoritmo tesparimpar
@@ -47,38 +72,11 @@ Numero impar y Par
 > 8
 el numeroingresado es par
 *** Ejecución Finalizada. ***
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ ![sin_titulo](https://github.com/sucelibarrientos/algoritmo.md/assets/132409206/abe69d04-dc1a-45d2-bfd8-1467f508e3ba)
  
  Que eda tienes?
  
- para verificar y saber que edad tienes 
- hacemos lo siguiente de que año nacio
- verificamos la edad de hermanos
- de esta menera tendremos algun resultado logico
+
  
  
  
