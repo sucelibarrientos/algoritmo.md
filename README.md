@@ -42,6 +42,19 @@ Numero impar y Par
  36/4 = 9 entoces verificamos que es par
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Que eda tienes?
  
  para verificar y saber que edad tienes 
