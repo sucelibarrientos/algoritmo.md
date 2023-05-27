@@ -30,19 +30,37 @@ geometria
 
 Numero impar y Par 
  
-¨*  para ver si es un numero par 
-*  deberianos de ver si la cantiad se pueda divir
-*  de esta manera sabres si es Par o no
-*  para ayudarnos haremos lo siquiente
-*  ejempo:
- 49/4 =12.4 de esta manera nos damos cuenta que es un numero impar
-*  por queda un sobrante 
-*  Entoces haremos otro ejemplo que nos ayudara a saber si es par
-*  Ejemplo:
- 36/4 = 9 entoces verificamos que es par
+ lgoritmo tesparimpar
+	Escribir " escriba el numero"
+	Leer num
+	Si num mod 2 = 0 Entonces
+		escribir "el numeroingresado es par "
+	SiNo
+		Escribir " el numero  ingresado es impar"
+	Fin Si
  
  
  
+ 
+ * Ejecución Iniciada. ***
+ escriba el numero
+> 8
+el numeroingresado es par
+*** Ejecución Finalizada. ***
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
