@@ -71,7 +71,7 @@ Numero impar y Par
  escriba el numero
 > 8
 el numeroingresado es par
-*** Ejecución
+*** Ejecuc
 
 
 
@@ -79,17 +79,6 @@ el numeroingresado es par
 
 
 
-![image](https://github.com/sucelibarrientos/algoritmo.md/assets/132409206/4e34e77b-aad1-482c-b68a-d342be5e952b)
-
-
- Que eda tienes?
- 
-
- 
- 
- 
- 
- 
  
  
  
